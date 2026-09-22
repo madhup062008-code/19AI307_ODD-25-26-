@@ -23,8 +23,8 @@ To demonstrate serialization and deserialization of a collection of Java objects
 ```java
 /*
 Program to demonstrate serialization and deserialization of an ArrayList<Student> using Java.
-Developed by: ALLEN PRAKASH J
-RegisterNumber: 212225040017
+Developed by: MADHU .P
+RegisterNumber: 212225040215
 */
 ```
 
