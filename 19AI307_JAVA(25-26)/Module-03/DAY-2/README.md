@@ -42,8 +42,8 @@ To implement compile-time polymorphism using method overloading for calculating 
 ```java
 /*
 Program to implement polymorphism using method overloading in Java.
-Developed by: ALLEN PRAKASH J
-RegisterNumber: 212225040017
+Developed by: MADHU .P
+RegisterNumber: 212225040215
 */
 ```
 
