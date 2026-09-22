@@ -36,8 +36,8 @@ To access a static variable using both the class name and an object in Java.
 ```java
 /*
 Program to access a static variable using class name and object.
-Developed by: ALLEN PRAKASH J
-RegisterNumber: 212225040017
+Developed by: MADHU .P
+RegisterNumber: 212225040215
 */
 ```
 
